@@ -50,8 +50,8 @@ function domainCreator() {
         possible_domains.push(
           " " +
             possibles.pronoun[i] +
-            possibles.adj[i] +
-            possibles.noun[i] +
+            possibles.adj[j] +
+            possibles.noun[k] +
             ".com"
         );
       }
